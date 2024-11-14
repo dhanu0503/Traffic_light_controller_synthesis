@@ -52,8 +52,6 @@ The Liberty files are present in the library path,
 ![Screenshot (98)](https://github.com/user-attachments/assets/3c61bb4e-bcc9-4ec3-8e82-13ffd7b9064f)
 
 <br>
-<br>
-<br>
 
 #### Power Report:
 
