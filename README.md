@@ -26,16 +26,15 @@ Synthesize Traffic Light Controller design using Constraints and analyse area an
 The Liberty files are present in the library path,
 
 - The Available technology nodes are 180nm ,90nm and 45nm.
-
 - In the terminal, initialise the tools with the following commands if a new terminal is being used.
 
     + csh
     + source /cadence/install/cshrc
 
 - The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
-
 - Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
+<br>
 <br>
 
 #### Synthesis RTL Schematic :
